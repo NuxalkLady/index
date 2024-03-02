@@ -1,0 +1,41 @@
+p {
+    font font-size: px;
+    color: red;30
+    
+}
+body {
+    background-color: white;
+}h1 {
+
+color:red;
+text-align: center;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+body {
+
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .banner {
+    background-color: #007bff; /* Set the background color of the banner */
+    color: #fff; /* Set the text color */
+    padding: 20px; /* Add padding to create space around the content */
+    text-align: center; /* Center align text */
+  }
+  
+  .banner h1 {
+    font-size: 36px; /* Set the font size of the heading */
+    margin: 0; /* Remove default margins */
+  }
+  
+  .banner p {
+    font-size: 18px; /* Set the font size of the paragraph */
+    margin-top: 10px; /* Add margin at the top of the paragraph */
+
+
